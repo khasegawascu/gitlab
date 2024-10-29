@@ -12,3 +12,4 @@ int MyClass::getX() {
 }
 
 // change to see part 7
+// change to see part 8
