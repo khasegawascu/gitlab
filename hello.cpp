@@ -10,5 +10,4 @@ int main () {
   cout << a.getX() << endl;
 }
 
-// added comment to see changes with git diff
-// another change to see part 7
+// making some changes for part 8.6a
