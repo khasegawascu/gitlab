@@ -10,3 +10,5 @@ MyClass::MyClass(int x_) {
 int MyClass::getX() { 
   return x; 
 }
+
+// change to see part 7
