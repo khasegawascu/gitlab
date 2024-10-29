@@ -10,4 +10,4 @@ int main () {
   cout << a.getX() << endl;
 }
 
-// making some changes for part 8.6a
+// final change to resolve conflict
